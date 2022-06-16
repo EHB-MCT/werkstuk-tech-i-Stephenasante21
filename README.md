@@ -57,7 +57,10 @@ Elections happen to bring the world to a democratic state.
 ## Experience
 
 Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
+
 Ik heb een disk gemaakt de wapen dat de guards gebruiken. Wanneer ze u beschermen is het een blauwe kleur. Maar wanneer de hoofdspeler een breakdown krijgt omdat ze een luxuese leven lijden wordt de kleur rood omdat hij nu een vijand is.
+
+Ik zou nog plexie glas gebruiken, tussen de 2 houten platen plakken om daar de led lichten op te plakken.
 
 ## Interaction
 
